@@ -1,6 +1,6 @@
 ---
 name: KeepExp
-version: 0.0.2
+version: 0.0.3
 main: NhanAZ\KeepExp\Main
 api: 5.0.0
 src-namespace-prefix: NhanAZ\KeepExp
