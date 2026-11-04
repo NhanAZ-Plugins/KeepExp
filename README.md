@@ -1,9 +1,15 @@
 # KeepExp
 
-KeepExp controls how much experience a player keeps after death in selected Axolotl-PM worlds.
+Keep player experience after death in selected Axolotl-PM worlds
 
-[![Build](https://github.com/NhanAZ-Plugins/KeepExp/actions/workflows/build.yml/badge.svg)](https://github.com/NhanAZ-Plugins/KeepExp/actions/workflows/build.yml)
-[![License](https://img.shields.io/github/license/NhanAZ-Plugins/KeepExp)](LICENSE)
+[![CI](https://github.com/NhanAZ-Plugins/KeepExp/actions/workflows/build.yml/badge.svg)](https://github.com/NhanAZ-Plugins/KeepExp/actions/workflows/build.yml)
+[![Latest release](https://img.shields.io/github/v/release/NhanAZ-Plugins/KeepExp)](https://github.com/NhanAZ-Plugins/KeepExp/releases/latest)
+[![License](https://img.shields.io/github/license/NhanAZ-Plugins/KeepExp)](https://github.com/NhanAZ-Plugins/KeepExp/blob/master/LICENSE)
+[![Discord](https://img.shields.io/discord/986553214889517088?label=Discord&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/j2X83ujT6c)
+
+## Overview
+
+This plugin targets the PocketMine-MP and Axolotl-PM API 5 ecosystem and is maintained under [NhanAZ-Plugins](https://github.com/NhanAZ-Plugins).
 
 ## Requirements and compatibility
 
