@@ -37,7 +37,7 @@ The server's native keep-XP event flag protects experience even when a player di
 
 ## Building and testing
 
-The [build workflow](.github/workflows/build.yml) tests world selection, runs PHPStan at maximum level, builds and inspects the PHAR with [DevTools](https://github.com/NhanAZ/DevTools), and uploads the verified artifact. A clean Axolotl-PM startup confirms the PHAR loads. Player death, respawn messaging and the Bedrock client display require an in-game test.
+The [build workflow](.github/workflows/build.yml) tests world selection, runs PHPStan at maximum level, builds and inspects the PHAR with [DevTools](https://github.com/AxolotlBucketLabs/DevTools), and uploads the verified artifact. A clean Axolotl-PM startup confirms the PHAR loads. Player death, respawn messaging and the Bedrock client display require an in-game test.
 
 ## License and support
 
